@@ -9,10 +9,16 @@ ___
 2. 자료구조
 3. 컴퓨터공학설계및실험I
 
+___
+
+SFML 프로젝트  
 <img width="80%" src="https://user-images.githubusercontent.com/66165015/263725396-fbc086e1-d0e2-458b-a248-b53a5465ce99.gif"/>
 
+OpenFrameworks 프로젝트  
 <img width="80%" src="https://user-images.githubusercontent.com/66165015/263736232-0d9a7e07-13bd-4b11-b425-1db5032fc942.gif"/>
 
+실제로 방송 중인 모습  
 <img width="80%" src="https://user-images.githubusercontent.com/66165015/263737552-d5b3d86f-f23a-40af-8d21-95e9dca5d37d.jpeg"/>
 
+CSFML 프로젝트  
 <img width="80%" src="https://user-images.githubusercontent.com/66165015/263740968-f0241868-3fa0-43fa-817d-c4635c110482.gif"/>
